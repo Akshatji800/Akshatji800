@@ -12,6 +12,9 @@
 - 📫 For contacting me send an [Email](mailto:zapaktayat@gmail.com).
 - 😄 Watch movies to enjoy!
 
+<br/>
+<br/>
+
 ## Skills👨‍💻
 <table>
   <p align="center">
