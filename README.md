@@ -34,6 +34,8 @@
     <img src="https://camo.githubusercontent.com/7ba879897e088abbd20843bac0ca22f0ad622e71556dd5297056d690c5aae09c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3132382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67" alt="aws" height="45" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="ubuntu" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://user-images.githubusercontent.com/73401649/163881023-9f7d4618-bd64-4fa4-8e4f-ee42b7d5e54b.png" alt="Android Studio" height="50" style="vertical-align:top; margin:0px">
+    <img src="https://camo.githubusercontent.com/5d16adff070d2a69a7617d576e0d3856bdd46c065a971ebb1e5b5066ad0046a1/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3132382f3030303030302f6669676d612e706e67" alt="Figma" height="40" style="vertical-align:top; margin:4px">
   </p>
 </table>
 
