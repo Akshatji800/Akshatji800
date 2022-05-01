@@ -1,10 +1,11 @@
 <p align="center"><a href="https://github.com/Akshatji800/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
+<p align="center"><a href="https://github.com/Akshatji800/"><img src="https://user-images.githubusercontent.com/73401649/166120146-583b2949-bdfa-46a6-8d15-3b563716e2e9.gif" alt="Animated footer bars" width="100%" height="250"/></a></p>
+
 [![twitter badge](https://img.shields.io/badge/twitter-_Akshatji800-0077b5?style=social&logo=twitter)](https://twitter.com/Akshatji800)
 [![telegram badge](https://img.shields.io/badge/telegram-akshatji800-0077b5?style=social&logo=telegram)](https://t.me/akshatji800)
 
-## Hello guys, this is Akshat Tripathi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<a href="https://octodex.github.com/catstello/"><img src="https://octodex.github.com/images/catstello.png" width="200"  align="right"></a>
+## Hello guys, this is Akshat Tripathi!
 
 - 🏫 I'm currently studying at Amrita School of Engineering, Amritapuri
 - 🧍‍♂️ I'm currently an active member at [amFOSS](http://www.amfoss.in)
@@ -13,9 +14,9 @@
 - 😄 Watch movies to enjoy!
 
 <br/>
-<br/>
 
 ## Skills👨‍💻
+
 <table>
   <p align="center">
     <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />
