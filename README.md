@@ -1,6 +1,6 @@
 <p align="center"><a href="https://github.com/Akshatji800/"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
 
-<p align="center"><a href="https://github.com/Akshatji800/"><img src="https://user-images.githubusercontent.com/73401649/166120146-583b2949-bdfa-46a6-8d15-3b563716e2e9.gif" alt="Animated footer bars" width="100%"/></a></p>
+<p align="center"><a href="https://github.com/Akshatji800/"><img src="https://user-images.githubusercontent.com/73401649/166120831-6c4cb331-763c-4b86-8d1f-3e7279003f36.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 [![twitter badge](https://img.shields.io/badge/twitter-_Akshatji800-0077b5?style=social&logo=twitter)](https://twitter.com/Akshatji800)
 [![telegram badge](https://img.shields.io/badge/telegram-akshatji800-0077b5?style=social&logo=telegram)](https://t.me/akshatji800)
